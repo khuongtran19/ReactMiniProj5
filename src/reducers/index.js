@@ -13,6 +13,10 @@ const songsReducer = () => {
         {
             title: 'All star',
             duration: '2:39'
+        },
+        {
+            title: 'Alive',
+            duration: '1:58'
         }
     ]
 }

@@ -14,7 +14,8 @@ class SongList extends Component {
                             Select
                         </button>
                     </div>
-                    <div className='content'>
+                    <div
+                        className='content'>
                         {song.title}
                     </div>
                 </div>

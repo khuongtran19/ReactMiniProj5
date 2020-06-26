@@ -5,7 +5,7 @@ const SongDetail = ({ song }) => {
     if (!song) return <div>Select a song</div>
     return (
         <div>
-            <h3>Detail for:</h3>
+            <h3>Song Detail:</h3>
             <p>
                 Title: {song.title}
                 <br />
